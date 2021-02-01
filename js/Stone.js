@@ -21,7 +21,7 @@ class  Stone{
   rotate(angle);
   fill (255,0,255);
  
-  image(this.image,0,0,90,70)
+  image(this.image,0,0,90,50)
 
   pop ();
   }
